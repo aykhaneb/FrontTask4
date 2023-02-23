@@ -1,0 +1,109 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+a {
+    text-decoration: none;
+    color: #fff;
+    text-transform: uppercase;
+}
+
+.navbar {
+    float: right;
+
+}
+
+.logo {
+    float: left;
+
+}
+
+.logo a {
+    font-weight: bold;
+    font-size: 15px;
+}
+
+.navbar a {
+    margin-left: 20px;
+}
+
+.header {
+    padding: 30px 10rem;
+    position: fixed;
+    width: 100%;
+}
+
+.contain {
+    background-image: url(https://startbootstrap.github.io/startbootstrap-creative/assets/img/bg-masthead.jpg);
+    background-size: cover;
+    background-position: center;
+    color: #fff;
+    text-align: center;
+    padding: 17rem 5rem;
+}
+
+.contain h1 {
+    font-size: 45px;
+    margin-bottom: 30px;
+}
+
+.contain p {
+    font-size: 25px;
+    margin-top: 30px;
+}
+
+.contain a {
+    display: inline-block;
+    background-color: #F4623A;
+    color: #fff;
+    padding: 20px 30px;
+    border-radius: 25px;
+    margin-top: 40px;
+    font-weight: bolder;
+}
+
+.contain hr {
+    width: 50px;
+    padding: 2px;
+    background-color: #F4623A;
+    border: #F4623A;
+    margin: 0 auto;
+}
+
+.contain2 {
+    background-color: #F4623A;
+    color: #fff;
+    text-align: center;
+    padding: 7rem 5rem;
+}
+
+.contain2 h1 {
+    font-size: 45px;
+    margin-bottom: 30px;
+}
+
+.contain2 p {
+    font-size: 25px;
+    margin-top: 30px;
+}
+
+.contain2 a {
+    display: inline-block;
+    background-color: #fff;
+    color: black;
+    padding: 20px 30px;
+    border-radius: 25px;
+    margin-top: 40px;
+    font-weight: bold;
+}
+
+.contain2 hr {
+    width: 50px;
+    padding: 2px;
+    background-color: #fff;
+    border: #fff;
+    margin: 0 auto;
+
+}
